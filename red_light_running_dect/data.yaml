@@ -1,0 +1,6 @@
+path: /home/thuy/embedded/embedded_linux/jetson/red_light_running_dect/dataset
+train: images/train
+val: images/val
+
+nc: 6
+name: ['car', 'traffic_light', 'red_light', 'green_light', 'yellow_light','bikecycle']
