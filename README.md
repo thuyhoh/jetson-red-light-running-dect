@@ -1,0 +1,13 @@
+- Giới thiệu đề tài
+    - Mục tiêu và yêu cầu thiết kế
+- Cảm biến NTC 10k B3950
+  - giới thiệu cảm biến 
+  - đăc tính kỹ thuật 
+  - công thức liên quan 
+- thiết kế thiết bị đo 
+  - Sơ đồ khối hệ thống
+  - Tính toán thông số
+  - Lựa chọn linh kiện + giá thành 
+- Tích hợp thêm mcu
+- Kết quả phần cứng + kết quả đọc được từ mcu
+- Đánh giá thiết bị đo
